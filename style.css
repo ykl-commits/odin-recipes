@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+p {
+    line-height: 145%;
+}
+
+ul {
+    line-height: 125%;
+    background-color: hsl(34, 37%, 93%);
+    padding: 16px;
+    /* margin: 16px; */
+}
+
+li {
+    margin: 16px;
+}
+
+h3 {
+    color: hsl(180, 2%, 10%);
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    height: 2px;
+    width: 100%;
+    background-color: black;
+    color: black;
+}
